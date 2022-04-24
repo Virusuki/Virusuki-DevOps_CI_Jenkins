@@ -1,7 +1,7 @@
 #Jenkins Overview(CI)
 - 개발자가 소스코드를 깃허브에 푸시하면 깃허브에 의해 젠킨스 파이프라인이 트리거가 되고, 궁극적으로 타겟 서버(Amazon EC2)에 워크로드를 배포하는 시나리오다.
 - Docker-hub은 ECR registry를 활용함.
-<img src="https://github.com/Virusuki/Virusuki-DevOps_CI_Jenkins/blob/main/img/jenkins%20overview(CI)" width="550px" height="400px" title="px(픽셀) 크기 설정" alt="AWS의 아키텍처.jpg"></img><br/>
+<img src="https://github.com/Virusuki/Virusuki-DevOps_CI_Jenkins/blob/main/img/jenkins%20overview(CI).jpg" width="550px" height="400px" title="px(픽셀) 크기 설정" alt="AWS의 아키텍처.jpg"></img><br/>
 
 
 #AWS의 아키텍처
